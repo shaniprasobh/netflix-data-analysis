@@ -17,8 +17,10 @@ This project explores the Netflix Movies and TV Shows dataset using Python, Pand
 - Pandas, Matplotlib, Seaborn
 - Jupyter Notebook
 - VS Code
+- Streamlit
 
 ## ▶️ How to Run
 1. Clone this repo:
    ```bash
    git clone https://github.com/shaniprasobh/netflix-data-analysis.git
+Application View- https://netflix-data-analysis-wtwajl57bdm69ovaarkceq.streamlit.app
